@@ -27,4 +27,5 @@ Detection of "Corona Spreader"-
 
 ![Stay home!](https://user-images.githubusercontent.com/71634031/145720558-86e896d7-518a-404a-a75e-8c33ee57b0e5.png)
 
+Have tested on very large input.
 
