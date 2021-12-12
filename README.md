@@ -1,7 +1,7 @@
 # TrinAriTree
 One of my "Introduction to computer science" course projects.
 
-Kepps a family data, using Queue and Tree Data structures, and tree traversal algorithms.
+Keeps a family data, using Queue and Tree Data structures, and tree traversal algorithms.
 
 ## Features:
 ![0](https://user-images.githubusercontent.com/71634031/145720389-7024c5cd-d9ea-4d85-ba5d-29ff58920b5b.png)
